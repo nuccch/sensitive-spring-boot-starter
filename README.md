@@ -56,7 +56,7 @@ public class Account {
 }
 ```
 
-如果希望关闭脱敏自动处理，可以通过参数`sensitive.mode=false`设置。
+如果希望关闭脱敏自动处理，可以通过参数`sensitive.mode=false`设置。  
 yaml格式配置如下：
 ```yml
 sensitive:
