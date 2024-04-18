@@ -8,9 +8,9 @@
 
 ## 如何使用
 
-第一步，下载[sensitive-plus](https://gitee.com/cchanghui/sensitive-plus)源码，执行`mvn clean install`安装到本地Maven仓库。
-第二步，下载[sensitive-spring-boot-starter](https://github.com/nuccch/sensitive-spring-boot-starter.git)源码，执行`mvn clean install`安装到本地Maven仓库。
-第三步，在Spring Boot项目中引入相关依赖配置：
+第一步，下载[sensitive-plus](https://gitee.com/cchanghui/sensitive-plus)源码，执行`mvn clean install`安装到本地Maven仓库。  
+第二步，下载[sensitive-spring-boot-starter](https://github.com/nuccch/sensitive-spring-boot-starter.git)源码，执行`mvn clean install`安装到本地Maven仓库。  
+第三步，在Spring Boot项目中引入相关依赖配置。  
 ```xml
 <dependencies>
     <dependency>
