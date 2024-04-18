@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "sensitive.mode",
+      "type": "java.lang.Boolean",
+      "description": "脱敏开关，默认启用.",
+      "defaultValue": "true"
+    }
+  ]
+}
